@@ -6,8 +6,8 @@ Work Progress: Jan 2010 - Dec 2010
 
 Developed At: Okinawa Institute of Science and Technology
                Computational Neuroscience Unit Okinawa - Japan
-	       
-Model Published in: 
+
+Model Published in:
 
              Simoes de Souza FM and De Schutter E (2011) Robustness
              effect of gap junctions between Golgi cells on cerebellar
@@ -67,3 +67,10 @@ Uncomment the GJ flag on mosinit.hoc to select a network with or
 without GJ between GoCs.
 Once the simulation is started it will produce a result similar to
 figure 9 from Simoes de Souza and De Schutter 2011.
+
+
+Changelog
+=========
+
+* 20220924: Update MOD files to avoid declaring variables and functions with the same name.
+  See https://github.com/neuronsimulator/nrn/pull/1992
