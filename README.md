@@ -46,10 +46,8 @@ Uncomment the GJ flag on `mosinit.hoc` to select a network with or without GJ be
 
 ---
 
-Changelog
+## Changelog
 
 * 2022-09-24: Update MOD files to avoid declaring variables and functions with the same name. See [https://github.com/neuronsimulator/nrn/pull/1992](https://github.com/neuronsimulator/nrn/pull/1992)
 
----
-
-2025-06-20: Converted README to Markdown.
+* 2025-06-20: Converted README to Markdown.
